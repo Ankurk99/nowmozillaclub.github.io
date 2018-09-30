@@ -7,7 +7,7 @@ N.O.W. was founded in 2018 with one purpose; well *technically*, three intervowe
 - Build
 - Protect
 
-To that extent, the club has Executives that are responsible with each of these roles, along with a Club Captain. We also have members belonging to cells suited to their skills.
+To that extent, the club have Executives who are responsible for each of these roles, along with a Club Captain. We also have members belonging to cells suited to their skills.
 We have conducted a few events, and have laid the groundwork for some more in the coming year.
 
 We're into everything Open Source and all things Secure.
